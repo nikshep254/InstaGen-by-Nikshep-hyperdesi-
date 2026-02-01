@@ -1,0 +1,5 @@
+{
+  "name": "InstaGen Bio Creator",
+  "description": "A powerful Instagram bio generator powered by Google Gemini AI that creates personalized, engaging, and creative bios for your profile.",
+  "requestFramePermissions": []
+}
